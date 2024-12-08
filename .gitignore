@@ -1,0 +1,5 @@
+.venv
+todo.md
+*pyc
+__pycache__
+# responses/
